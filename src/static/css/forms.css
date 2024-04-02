@@ -84,7 +84,7 @@
 .form__flash {
     display: block;
     padding: 0.5rem;
-    color: var(--text-muted);
+    color: var(--text);
 }
 
 .form__error,
